@@ -4,4 +4,4 @@
 Presento en este repositorio algunos códigos realizados con el lenguaje pyhton.
 La primera carpeta de *MinimosCuadrados* contiene  un script llamadado *MinimosCuadrados.py* ,el cual se desarrolla el algoritmo para poder usar el método de  minimos cuadrados y los subsecuentes 3 archivos de extensión *.ipynb*  presentan  varios codigos en  python,tratan de abordar temas basicos del mismos lenguaje,como pueden ser listas,tuplas,variables,funciones,ciclos y condicionales.
 #### nota:
-Todos estos códigos forman parte de mi aprendizaje en el lenguaje python,pues mi camino en el aprendizaje del mismo,es enfocarme en la *ciencia de datos*
+Todos estos códigos forman parte de mi aprendizaje en el lenguaje python,pues mi camino en el aprendizaje del mismo,es enfocarme en la *ciencia de datos* y *machine learning*
